@@ -1,4 +1,4 @@
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
 name: Work Stats Readme
 
 on:
@@ -14,4 +14,5 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ waka_e0841bd3-bd85-4dee-8d97-ec7f4ecd935c}}
+          WAKATIME_API_KEY: ${{ waka_e0841bd3-bd85-4dee-8d97-ec7f4ecd935c}}<!--END_SECTION:waka-->
+
